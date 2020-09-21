@@ -14,7 +14,7 @@
 
 ### Português
 
-- 🔭 Atualmente, estou trabalhando .
+- 🔭 Atualmente, estou trabalhando muito para aprender programação.
 - 🌱 Atualmente, estou aprimorando minhas habilidades em React, React Native e Node.js.
 - 👯 Estou procurando colaborar na comunidade de desenvolvedores.
 - :question: Qualquer dúvida não hesite em entrar em contato.
