@@ -18,7 +18,7 @@
 
 -💬 Tenho 20 anos, atualmente moro em Portugal.Tenho experiência com Python, HTML, CSS e JS.
 
--⚡ Gosto de ler e escrever, manhwa, assistir filmes, séries e jogar videogames! ╰(≧▽≦q)
+-⚡ Gosto de ler e escrever, ler manhwas, assistir filmes, séries e jogar videogames! ╰(≧▽≦q)
 </details>
 
 
