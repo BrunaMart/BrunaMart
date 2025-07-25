@@ -1,10 +1,10 @@
-<h1 align="center">Seja bem vindos ao meu perfil</h1>
+<h1 align="center">Sejam bem vindos ao meu perfil</h1>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="145" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhycHpjN2ZuYW90cGd4dG1weGUxMWs4eG9tMjR4bHY1b3pwZWxmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tpAydXAAJWMLtZfIvg/giphy.gif"  />
+<img align="right" height="182" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhycHpjN2ZuYW90cGd4dG1weGUxMWs4eG9tMjR4bHY1b3pwZWxmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tpAydXAAJWMLtZfIvg/giphy.gif"  />
 
 ###
 
@@ -13,8 +13,8 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="32" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="32" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="39" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="39" alt="gmail logo"  />
 </div>
 
 ###
