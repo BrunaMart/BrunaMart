@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bruna-carvalho-6827362b1/" target="_blank">
+  <a href="https://www.linkedin.com/in/bruna-martins-6827362b1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=plastic" height="50" alt="linkedin logo"  />
   </a>
 </div>
