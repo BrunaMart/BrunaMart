@@ -1,4 +1,4 @@
-<h1 align="center">Sejam bem vindos ao meu perfil</h1>
+<h1 align="center">Welcome to my profile</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👋 Olá! sou a Bruna<br><br>🎓 Sou estudante de Tecnologia e Programação de Sistemas de Informação<br>🌐 Apaixonada pelo desenvolvimento web, principalmente no front-end<br>📚 Atualmente estou estudando JavaScript, React e Java<br>🚀 Sempre buscando aprender novas tecnologias e boas práticas de programação<br><br>💡 Meu foco é criar soluções criativas e interativas para com o usuário<br>📈 Em constante evolução e aberta a colaborações em projetos e ideias</p>
+<p align="left">👋 Hi! I'm Bruna<br><br>🎓 I'm a student of Information Systems Technology and Programming<br>🌐 Passionate about web development, especially front-end<br>📚 Currently studying JavaScript, React, and Java<br>🚀 Always striving to learn new technologies and best programming practices<br><br>💡 My focus is on creating creative and interactive user experiences<br>📈 Constantly evolving and open to collaborations on projects and ideas</p>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">🛠 Linguagens</h3>
+<h3 align="left">🛠 Languages</h3>
 
 ###
 
@@ -44,13 +44,13 @@
 
 ###
 
-<h3 align="left">🤖 Estatísticas</h3>
+<h3 align="left">🤖 Stats</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunaMart&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunaMart&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunaMart&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunaMart&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
