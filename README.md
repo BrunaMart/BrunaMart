@@ -1,62 +1,67 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
-<h1 align="center">Sejam bem vindos ao meu perfil</h1>
+###
+
+<h1 align="center">Welcome to my profile.</h1>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="182" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhycHpjN2ZuYW90cGd4dG1weGUxMWs4eG9tMjR4bHY1b3pwZWxmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tpAydXAAJWMLtZfIvg/giphy.gif"  />
-
-###
-
-<p align="left">👋 Olá! sou a Bruna<br><br>🎓 Sou estudante de Tecnologia e Programação de Sistemas de Informação<br>🌐 Apaixonada pelo desenvolvimento web, principalmente no front-end<br>📚 Atualmente estou estudando JavaScript, React e Java<br>🚀 Sempre buscando aprender novas tecnologias e boas práticas de programação<br><br>💡 Meu foco é criar soluções criativas e interativas para com o usuário<br>📈 Em constante evolução e aberta a colaborações em projetos e ideias</p>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/bruna-martins-6827362b1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=plastic" height="50" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<h1 align="left"></h1>
+<div align="center">
+  <img src="https://count.getloli.com/@:BrunaMart?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 ###
 
-<h3 align="left">🛠 Linguagens</h3>
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Hi, I'm Bruna<br><br>★ On a mission: to master React and JavaScript to conquer the web universe.<br>★ Exploring: JavaScript, React, and Java<br>★ Creating: web experiences.</p>
+
+###
+
+<img align="right" height="253" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJ2aDg3YXFtMWt2YjNjcmdxaXozZ2g4YWJvdDVmZmdxdjYxOWJtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HH8AYABoO4ICAa0Dx9/giphy.gif"  />
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="48" alt="javascript logo"  />
-  <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="html5 logo"  />
-  <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="css logo"  />
-  <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
 ###
 
-<h1 align="left"></h1>
-
-###
-
-<h3 align="left">🤖 Estatísticas</h3>
+<h3 align="left">🔥  Statistics</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunaMart&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunaMart&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunaMart&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunaMart&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
-
-###
-
-<h1 align="left"></h1>
 
 ###
 
