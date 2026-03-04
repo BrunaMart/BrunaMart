@@ -24,15 +24,15 @@
 
 ###
 
+<img align="right" height="253" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJ2aDg3YXFtMWt2YjNjcmdxaXozZ2g4YWJvdDVmZmdxdjYxOWJtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HH8AYABoO4ICAa0Dx9/giphy.gif"  />
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <p align="left">Hi, I'm Bruna<br><br>★ On a mission: to master React and JavaScript to conquer the web universe.<br>★ Exploring: JavaScript, React, and Java<br>★ Creating: web experiences.</p>
-
-###
-
-<img align="right" height="253" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJ2aDg3YXFtMWt2YjNjcmdxaXozZ2g4YWJvdDVmZmdxdjYxOWJtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HH8AYABoO4ICAa0Dx9/giphy.gif"  />
 
 ###
 
